@@ -1,0 +1,3 @@
+<h1> TOPS first project </h1>
+<p>This is my first project given by The Odin Project and its been very hard to complete between Work, constant side projects I do for extra cash, Honey do lists, time with family and just trying to relax even. I just finished the first project and i am very happy with it and it is the confident booster I needed.</p>
+<p>I am looking forward to the rest of this course and the future projects TOPS has to offer.</p>
